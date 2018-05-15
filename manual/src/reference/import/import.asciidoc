@@ -1,8 +1,0 @@
-[[import]]
-Data Import
-===========
-
-For importing data into Neo4j, see http://www.neo4j.org/develop/import.
-
-For high-performance data import, see <<batchinsert>>.
-
